@@ -1,0 +1,3 @@
+﻿  decomposition_number_to_digits.cpp
+C:\Users\Tom\source\repos\tasks\decomposition_number_to_digits\decomposition_number_to_digits\decomposition_number_to_digits.cpp(32,33): warning C4244: =: преобразование "double" в "__int64", возможна потеря данных
+  decomposition_number_to_digits.vcxproj -> C:\Users\Tom\source\repos\tasks\decomposition_number_to_digits\Debug\decomposition_number_to_digits.exe
